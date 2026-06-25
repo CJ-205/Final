@@ -142,3 +142,21 @@ footer {
   border-radius: 10px;
 }
 
+h3 {
+  font-size: 110%;
+  margin-bottom: .5rem;
+  margin-top: 2rem;
+}
+
+ul {
+  margin: 1rem;
+}
+
+li {
+  margin: 1rem;
+}
+
+.court{
+  float: right;
+  width: 550px;
+}
