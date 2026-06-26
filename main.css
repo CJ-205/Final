@@ -156,7 +156,7 @@ li {
   margin: 1rem;
 }
 
-.court{
+.court-rotation {
   float: right;
   width: 550px;
 }
@@ -188,4 +188,9 @@ li {
 
 h4 {
   font-size: 120%;
+}
+
+.rotation {
+  float: right;
+  width: 300px;
 }
